@@ -1,0 +1,46 @@
+.vscode
+
+client/.DS_Store
+client/node_modules
+client/.env
+
+# local env files
+client/.env.local
+client/.env.*.local
+
+# Log files
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+
+# Editor directories and files
+client/.idea
+client/.vscode
+client/*.suo
+client/*.ntvs*
+client/*.njsproj
+client/*.sln
+client/*.sw?
+
+
+server/.DS_Store
+server/node_modules
+server/.env
+
+# local env files
+server/.env.local
+server/.env.*.local
+
+# Log files
+server/npm-debug.log*
+server/yarn-debug.log*
+server/yarn-error.log*
+
+# Editor directories and files
+server/.idea
+server/.vscode
+server/*.suo
+server/*.ntvs*
+server/*.njsproj
+server/*.sln
+server/*.sw?
